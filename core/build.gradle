@@ -11,7 +11,7 @@ dependencies {
     implementation 'io.socket:socket.io-client:2.1.0'
 
     // Fastjson 此为最后支持Android 6 的版本
-    implementation 'com.alibaba:fastjson:1.1.77.android_noneautotype'
+    implementation 'com.alibaba:fastjson:2.0.56'
 
     // Http
     implementation 'org.apache.httpcomponents:httpclient:4.5.14'
